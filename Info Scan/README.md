@@ -22,7 +22,7 @@ pip -r install requirements.txt
 -size SIZE            指定文件字节大小,默认3500000(用于过滤误报)
 ```
 
-![image-20230119195424045](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\image-20230119195424045.png)
+![1](C:\Users\86184\Desktop\Info Scan\运行截图\1.png)
 
 #### 运行结果
 
@@ -30,15 +30,15 @@ pip -r install requirements.txt
 
 *domain\*关键字可以将域名用于测试泄露的文件名进行测试,文件后缀可自定义
 
-![image-20230119195851865](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\image-20230119195851865.png)
+![2](C:\Users\86184\Desktop\Info Scan\运行截图\2.png)
 
 url.txt(待扫描文件)里域名后不能有文件路径
 
-![image-20230119195710487](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\image-20230119195710487.png)
+![3](C:\Users\86184\Desktop\Info Scan\运行截图\3.png)
 
 
 
-![image-20230119195800345](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\image-20230119195800345.png)
+![4](C:\Users\86184\Desktop\Info Scan\运行截图\4.png)
 
 
 
